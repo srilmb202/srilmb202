@@ -1,4 +1,8 @@
 
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=100&color=78F1F7&center=true&vCenter=true&width=435&lines=Hi+There+👋;+I'm+Laasya..!;" />
+</h1>
+
 # 💫 About Me:
 👋 Hi, I'm Laasya!<br>📚 Constantly expanding my tech toolkit through hands-on project exploration and experimentation.<br>🔭 Curious about AGI, LLMs & AI…<br>💬 Ask me about my journey towards Cloud Computing, Machine Learning<br>😜 What happens when hard drive gets into flight ? -> It asks for back-up! 
 
